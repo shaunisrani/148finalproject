@@ -16,7 +16,7 @@ slope, distances, illumination). Dataset: UCI / scikit-learn **Covertype**,
 └── results/          # created by run_all.py (metrics.json, eda_summary.txt)
 ```
 
-## Quickstart (≈10 min hands-on, ~5 min of waiting)
+## Quickstart (~5 min of waiting)
 
 ```bash
 python -m venv venv && source venv/bin/activate     # Windows: venv\Scripts\activate
