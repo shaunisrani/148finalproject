@@ -1,0 +1,12 @@
+# generated artifacts
+model.joblib
+figures/
+results/
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# scikit-learn data cache
+scikit_learn_data/
